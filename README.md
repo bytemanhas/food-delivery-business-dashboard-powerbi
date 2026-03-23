@@ -72,7 +72,7 @@ The dataset contains food delivery transaction data with the following fields:
 ---
 
 ## 📸 Dashboard Preview
-(Add your Power BI dashboard screenshot here)
+<img width="1346" height="753" alt="image" src="https://github.com/user-attachments/assets/1275e360-3f41-4e15-92b4-59d28d514789" />
 
 ---
 
